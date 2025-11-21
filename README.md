@@ -28,8 +28,8 @@ This repository contains **screenshots, videos, and documentation only** — no 
 
 ### Trading Terminal (Flutter Web)
 
-![Terminal – Levels](media/terminal/image.png)
-![Terminal – Orders](media/terminal/image2.png)
+![Terminal – Levels](terminal/image.png)
+![Terminal – Orders](terminal/image2.png)
 
 ## Tech Stack
 - **Frontend:** Flutter Web (Material 3)
