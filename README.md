@@ -1,10 +1,9 @@
 # TradeTerminal — Crypto Trading Dashboard (Showcase)
 
-
 Public showcase of a **Flutter Web trading terminal** (Bybit) and an **options bot** (Deribit/Bybit).
 This repository contains **screenshots, videos, and documentation only** — no proprietary source code.
 
-**Live (demo UI):** `https://trade.bitspinner.io` *(if available)*
+**Live (demo UI):** https://trade.bitspinner.io 
 
 ---
 
@@ -37,7 +36,6 @@ This repository contains **screenshots, videos, and documentation only** — no 
 
 ## Media
 - Screenshots: `/media/screens`
-- Videos: `/media/videos` (via Git LFS)
 
 > This repo is a **showcase** (screens, videos, docs). No source code is published.
 
